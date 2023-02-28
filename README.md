@@ -1,1 +1,1 @@
-# CO326  Computer Systems EngineeringIndustrial Networks
+# CO326  Computer Systems Engineering : Industrial Networks
